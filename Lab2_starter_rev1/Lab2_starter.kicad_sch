@@ -5750,7 +5750,7 @@
 		(uuid "38fdbf00-1983-4896-87a9-41761d7d1e49")
 	)
 	(no_connect
-		(at 95.25 36.83)
+		(at 95.25 35.56)
 		(uuid "3f8ec3fb-332d-4baf-b63f-ad6201de8cd9")
 	)
 	(no_connect
@@ -5782,7 +5782,7 @@
 		(uuid "7d9a015e-911b-4756-9c50-41530fd45e76")
 	)
 	(no_connect
-		(at 87.63 36.83)
+		(at 87.63 35.56)
 		(uuid "832dcae7-a0c1-4ffb-abe3-4784c2d8be6e")
 	)
 	(no_connect
@@ -10941,7 +10941,7 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 91.44 36.83 90)
+		(at 91.44 35.56 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10950,7 +10950,7 @@
 		(fields_autoplaced yes)
 		(uuid "3993ab38-64bb-47f9-bd6e-0b28fe38b2b9")
 		(property "Reference" "L1"
-			(at 91.44 32.385 90)
+			(at 91.44 31.115 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10958,7 +10958,7 @@
 			)
 		)
 		(property "Value" "L"
-			(at 91.44 34.925 90)
+			(at 91.44 33.655 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10966,7 +10966,7 @@
 			)
 		)
 		(property "Footprint" "ECE462L:Inductor"
-			(at 91.44 36.83 0)
+			(at 91.44 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10975,7 +10975,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 91.44 36.83 0)
+			(at 91.44 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10984,7 +10984,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 36.83 0)
+			(at 91.44 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
